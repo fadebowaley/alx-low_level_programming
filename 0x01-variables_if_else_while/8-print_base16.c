@@ -14,7 +14,7 @@ putchar(z);
 }
 for (z = 97; z <= 102;z++)
 {
-putchar(z)
+putchar(z);
 }
 putchar('\n');
 return (0);
